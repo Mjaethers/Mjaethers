@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mjaethers
-- 🎓 I’m studying Computer Science at the Technical University Munich
-- 🌱 I’m currently learning mostly Java
+- 🎓 I’m studying Informatics at the Technical University Munich
+- 🌱 I’m currently learning Java, C and x86/x86_64 assembly
 <!--- - 📫 How to reach me ...
 --->
 
